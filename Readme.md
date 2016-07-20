@@ -2,4 +2,6 @@
 
 Este é um repositorio teste para ensinar como git funciona
 
-gosotu do curso
+gostou do curso?
+
+Ta legal ! :)
